@@ -1,0 +1,18 @@
+Bill of Material for 
+On 12/17/2017 at 11:50:29 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 100R                RES-1/4W         1    R4 100R                      Res                  
+ 1K                  RES-1/4W         1    R2 1K                        Res                  
+ 20K                 VR-S1            1    VR1                          Var Resistor         
+ 22k                 RES-1/4W         1    R3 22K                       Res                  
+ 4,7k                RES-1/4W         1    R1 4.7K                      Res                  
+ C1815               TO92-ECB         1    C2                           Q2SC1815             
+ Cap Non-pol         Cap Non-Pol 3mm    1    C1                           Non-polarized Capacitor 
+ Diode               DIO-1A-SMALL     1    D1                           Default Diode        
+ KF2                 KF2-3.5          3    J1, J2, J3                                        
+ LDR                 CDS              1    LDR1                         Quang Tro            
+ LED                 LED-5MM-RED      1    LED1                         LED Single colour Green and Red 
+ LM393               DIP8             1    U1                           IC DUAL COMPARATOR   
+ Relay 5V            RELAY 5          1    RL1                          Relay SPDT,10A - 12VDC 5 Pin 

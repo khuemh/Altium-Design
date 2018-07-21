@@ -1,0 +1,19 @@
+Net Status Report
+Filename     : C:\Users\Public\Documents\Altium\Projects\LDR\PCB2.PcbDoc
+Date         : 12/18/2017
+Time         : 9:54:09 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    GND, Signal Layers Only, 3097.687mils
+    NetD1_1, Signal Layers Only, 841.269mils
+    NetJ1_1, Signal Layers Only, 1298.584mils
+    NetJ1_2, Signal Layers Only, 187.204mils
+    NetJ2_2, Signal Layers Only, 296.615mils
+    NetLDR1_2, Signal Layers Only, 1091.323mils
+    NetLED1_2, Signal Layers Only, 165.828mils
+    NetR2_2, Signal Layers Only, 346.569mils
+    NetR4_2, Signal Layers Only, 2416.614mils
+    NetU1_2, Signal Layers Only, 364.35mils
+    VCC, Signal Layers Only, 4498.5mils
+count : 11

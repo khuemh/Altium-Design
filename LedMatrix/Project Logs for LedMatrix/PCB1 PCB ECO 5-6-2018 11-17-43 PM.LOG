@@ -1,0 +1,55 @@
+Added Component: Designator=C1(JP5-D1T)
+Added Component: Designator=C2(JP5-D1T)
+Added Component: Designator=C3(JP5-D1T)
+Added Component: Designator=C4(JP5-D1T)
+Added Component: Designator=C5(JP5-D1T)
+Added Component: Designator=C6(JP5-D1T)
+Added Component: Designator=C7(JP5-D1T)
+Added Component: Designator=C8(JP5-D1T)
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C5-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C5-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC2_3 Pin=C2-3
+Added Pin To Net: NetName=NetC2_3 Pin=C5-3
+Added Net: Name=NetC2_3
+Added Pin To Net: NetName=NetC2_4 Pin=C2-4
+Added Pin To Net: NetName=NetC2_4 Pin=C5-4
+Added Net: Name=NetC2_4
+Added Pin To Net: NetName=NetC2_5 Pin=C2-5
+Added Pin To Net: NetName=NetC2_5 Pin=C5-5
+Added Net: Name=NetC2_5
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C6-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C6-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC3_3 Pin=C3-3
+Added Pin To Net: NetName=NetC3_3 Pin=C6-3
+Added Net: Name=NetC3_3
+Added Pin To Net: NetName=NetC3_4 Pin=C3-4
+Added Pin To Net: NetName=NetC3_4 Pin=C6-4
+Added Net: Name=NetC3_4
+Added Pin To Net: NetName=NetC3_5 Pin=C3-5
+Added Pin To Net: NetName=NetC3_5 Pin=C6-5
+Added Net: Name=NetC3_5
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=C7-1
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=C7-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC4_3 Pin=C4-3
+Added Pin To Net: NetName=NetC4_3 Pin=C7-3
+Added Net: Name=NetC4_3
+Added Pin To Net: NetName=NetC4_4 Pin=C4-4
+Added Pin To Net: NetName=NetC4_4 Pin=C7-4
+Added Net: Name=NetC4_4
+Added Pin To Net: NetName=NetC4_5 Pin=C4-5
+Added Pin To Net: NetName=NetC4_5 Pin=C7-5
+Added Net: Name=NetC4_5
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

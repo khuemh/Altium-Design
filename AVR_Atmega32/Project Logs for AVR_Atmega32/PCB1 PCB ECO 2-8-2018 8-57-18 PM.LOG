@@ -1,0 +1,153 @@
+Added Component: Designator=1(TO252-123)
+Added Component: Designator=ATMEGA1(DIP40/W0.6)
+Added Component: Designator=C1(CAP_SMD_6_3MM)
+Added Component: Designator=C2(CAP_SMD_6_3MM)
+Added Component: Designator=C3(CAP_SMD_6_3MM)
+Added Component: Designator=C?(CAP_SMD_6_3MM)
+Added Component: Designator=C_P1(C-NP-0805)
+Added Component: Designator=C_X1(C-NP-0805)
+Added Component: Designator=C_X2(C-NP-0805)
+Added Component: Designator=ICSP1(JP3-D2T)
+Added Component: Designator=LED_P1(LED-1206-Blue)
+Added Component: Designator=LED_SCK1(LED-1206-Blue)
+Added Component: Designator=PortA1(JP8-D1T)
+Added Component: Designator=PortB1(JP8-D1T)
+Added Component: Designator=PortC1(JP8-D1T)
+Added Component: Designator=PortD1(JP8-D1T)
+Added Component: Designator=R_P1(RES-SMD-1206)
+Added Component: Designator=R_R1(RES-SMD-1206)
+Added Component: Designator=R_SCK1(RES-SMD-1206)
+Added Component: Designator=SW1(SW1-SMD)
+Added Component: Designator=VIN1(JP2-C1T)
+Added Component: Designator=XT1(XT2)
+Added Pin To Net: NetName=VIN Pin=1-1
+Added Pin To Net: NetName=GND Pin=1-2
+Added Pin To Net: NetName=VCC Pin=1-3
+Added Pin To Net: NetName=NetATMEGA1_1 Pin=ATMEGA1-1
+Added Pin To Net: NetName=NetATMEGA1_2 Pin=ATMEGA1-2
+Added Pin To Net: NetName=NetATMEGA1_3 Pin=ATMEGA1-3
+Added Pin To Net: NetName=NetATMEGA1_4 Pin=ATMEGA1-4
+Added Pin To Net: NetName=NetATMEGA1_5 Pin=ATMEGA1-5
+Added Pin To Net: NetName=NetATMEGA1_6 Pin=ATMEGA1-6
+Added Pin To Net: NetName=NetATMEGA1_7 Pin=ATMEGA1-7
+Added Pin To Net: NetName=NetATMEGA1_8 Pin=ATMEGA1-8
+Added Pin To Net: NetName=NetATMEGA1_9 Pin=ATMEGA1-9
+Added Pin To Net: NetName=NetATMEGA1_10 Pin=ATMEGA1-10
+Added Pin To Net: NetName=NetATMEGA1_11 Pin=ATMEGA1-11
+Added Pin To Net: NetName=NetATMEGA1_12 Pin=ATMEGA1-12
+Added Pin To Net: NetName=NetATMEGA1_13 Pin=ATMEGA1-13
+Added Pin To Net: NetName=NetATMEGA1_14 Pin=ATMEGA1-14
+Added Pin To Net: NetName=NetATMEGA1_15 Pin=ATMEGA1-15
+Added Pin To Net: NetName=NetATMEGA1_16 Pin=ATMEGA1-16
+Added Pin To Net: NetName=NetATMEGA1_17 Pin=ATMEGA1-17
+Added Pin To Net: NetName=NetATMEGA1_18 Pin=ATMEGA1-18
+Added Pin To Net: NetName=NetATMEGA1_19 Pin=ATMEGA1-19
+Added Pin To Net: NetName=NetATMEGA1_20 Pin=ATMEGA1-20
+Added Pin To Net: NetName=NetATMEGA1_21 Pin=ATMEGA1-21
+Added Pin To Net: NetName=NetATMEGA1_22 Pin=ATMEGA1-22
+Added Pin To Net: NetName=NetATMEGA1_23 Pin=ATMEGA1-23
+Added Pin To Net: NetName=NetATMEGA1_24 Pin=ATMEGA1-24
+Added Pin To Net: NetName=NetATMEGA1_25 Pin=ATMEGA1-25
+Added Pin To Net: NetName=NetATMEGA1_26 Pin=ATMEGA1-26
+Added Pin To Net: NetName=NetATMEGA1_27 Pin=ATMEGA1-27
+Added Pin To Net: NetName=NetATMEGA1_28 Pin=ATMEGA1-28
+Added Pin To Net: NetName=NetATMEGA1_29 Pin=ATMEGA1-29
+Added Pin To Net: NetName=VCC Pin=ATMEGA1-30
+Added Pin To Net: NetName=NetATMEGA1_31 Pin=ATMEGA1-31
+Added Pin To Net: NetName=NetATMEGA1_32 Pin=ATMEGA1-32
+Added Pin To Net: NetName=NetATMEGA1_33 Pin=ATMEGA1-33
+Added Pin To Net: NetName=NetATMEGA1_34 Pin=ATMEGA1-34
+Added Pin To Net: NetName=NetATMEGA1_35 Pin=ATMEGA1-35
+Added Pin To Net: NetName=NetATMEGA1_36 Pin=ATMEGA1-36
+Added Pin To Net: NetName=NetATMEGA1_37 Pin=ATMEGA1-37
+Added Pin To Net: NetName=NetATMEGA1_38 Pin=ATMEGA1-38
+Added Pin To Net: NetName=NetATMEGA1_39 Pin=ATMEGA1-39
+Added Pin To Net: NetName=NetATMEGA1_40 Pin=ATMEGA1-40
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetATMEGA1_9 Pin=C2-1
+Added Pin To Net: NetName=NetATMEGA1_32 Pin=C3-1
+Added Pin To Net: NetName=NetATMEGA1_31 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C_P1-1
+Added Pin To Net: NetName=VCC Pin=C_P1-2
+Added Pin To Net: NetName=GND Pin=C_X1-1
+Added Pin To Net: NetName=NetATMEGA1_13 Pin=C_X1-2
+Added Pin To Net: NetName=GND Pin=C_X2-1
+Added Pin To Net: NetName=NetATMEGA1_12 Pin=C_X2-2
+Added Pin To Net: NetName=NetATMEGA1_7 Pin=ICSP1-1
+Added Pin To Net: NetName=NetATMEGA1_8 Pin=ICSP1-2
+Added Pin To Net: NetName=NetATMEGA1_9 Pin=ICSP1-3
+Added Pin To Net: NetName=NetATMEGA1_11 Pin=ICSP1-4
+Added Pin To Net: NetName=NetATMEGA1_6 Pin=ICSP1-5
+Added Pin To Net: NetName=NetATMEGA1_10 Pin=ICSP1-6
+Added Pin To Net: NetName=NetLED_P1_1 Pin=LED_P1-1
+Added Pin To Net: NetName=GND Pin=LED_P1-2
+Added Pin To Net: NetName=NetLED_SCK1_1 Pin=LED_SCK1-1
+Added Pin To Net: NetName=GND Pin=LED_SCK1-2
+Added Pin To Net: NetName=NetATMEGA1_33 Pin=PortA1-1
+Added Pin To Net: NetName=NetATMEGA1_34 Pin=PortA1-2
+Added Pin To Net: NetName=NetATMEGA1_35 Pin=PortA1-3
+Added Pin To Net: NetName=NetATMEGA1_36 Pin=PortA1-4
+Added Pin To Net: NetName=NetATMEGA1_37 Pin=PortA1-5
+Added Pin To Net: NetName=NetATMEGA1_38 Pin=PortA1-6
+Added Pin To Net: NetName=NetATMEGA1_39 Pin=PortA1-7
+Added Pin To Net: NetName=NetATMEGA1_40 Pin=PortA1-8
+Added Pin To Net: NetName=NetATMEGA1_8 Pin=PortB1-1
+Added Pin To Net: NetName=NetATMEGA1_7 Pin=PortB1-2
+Added Pin To Net: NetName=NetATMEGA1_6 Pin=PortB1-3
+Added Pin To Net: NetName=NetATMEGA1_5 Pin=PortB1-4
+Added Pin To Net: NetName=NetATMEGA1_4 Pin=PortB1-5
+Added Pin To Net: NetName=NetATMEGA1_3 Pin=PortB1-6
+Added Pin To Net: NetName=NetATMEGA1_2 Pin=PortB1-7
+Added Pin To Net: NetName=NetATMEGA1_1 Pin=PortB1-8
+Added Pin To Net: NetName=NetATMEGA1_22 Pin=PortC1-1
+Added Pin To Net: NetName=NetATMEGA1_23 Pin=PortC1-2
+Added Pin To Net: NetName=NetATMEGA1_24 Pin=PortC1-3
+Added Pin To Net: NetName=NetATMEGA1_25 Pin=PortC1-4
+Added Pin To Net: NetName=NetATMEGA1_26 Pin=PortC1-5
+Added Pin To Net: NetName=NetATMEGA1_27 Pin=PortC1-6
+Added Pin To Net: NetName=NetATMEGA1_28 Pin=PortC1-7
+Added Pin To Net: NetName=NetATMEGA1_29 Pin=PortC1-8
+Added Pin To Net: NetName=NetATMEGA1_14 Pin=PortD1-1
+Added Pin To Net: NetName=NetATMEGA1_15 Pin=PortD1-2
+Added Pin To Net: NetName=NetATMEGA1_16 Pin=PortD1-3
+Added Pin To Net: NetName=NetATMEGA1_17 Pin=PortD1-4
+Added Pin To Net: NetName=NetATMEGA1_18 Pin=PortD1-5
+Added Pin To Net: NetName=NetATMEGA1_19 Pin=PortD1-6
+Added Pin To Net: NetName=NetATMEGA1_20 Pin=PortD1-7
+Added Pin To Net: NetName=NetATMEGA1_21 Pin=PortD1-8
+Added Pin To Net: NetName=VCC Pin=R_P1-1
+Added Pin To Net: NetName=NetLED_P1_1 Pin=R_P1-2
+Added Pin To Net: NetName=VCC Pin=R_R1-1
+Added Pin To Net: NetName=NetATMEGA1_9 Pin=R_R1-2
+Added Pin To Net: NetName=NetATMEGA1_8 Pin=R_SCK1-1
+Added Pin To Net: NetName=NetLED_SCK1_1 Pin=R_SCK1-2
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=NetATMEGA1_9 Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=VIN1-1
+Added Pin To Net: NetName=VIN Pin=VIN1-2
+Added Pin To Net: NetName=NetATMEGA1_13 Pin=XT1-1
+Added Pin To Net: NetName=NetATMEGA1_12 Pin=XT1-2
+Added Member To Class: ClassName=Sheet1 Member=Component 1 LM78xx
+Added Member To Class: ClassName=Sheet1 Member=Component ATMEGA1 ATmega32A-PU
+Added Member To Class: ClassName=Sheet1 Member=Component C1 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C2 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C3 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C_P1 Cap Non-pol
+Added Member To Class: ClassName=Sheet1 Member=Component C_X1 Cap Non-pol
+Added Member To Class: ClassName=Sheet1 Member=Component C_X2 Cap Non-pol
+Added Member To Class: ClassName=Sheet1 Member=Component ICSP1 JP3x2
+Added Member To Class: ClassName=Sheet1 Member=Component LED_P1 LED
+Added Member To Class: ClassName=Sheet1 Member=Component LED_SCK1 LED
+Added Member To Class: ClassName=Sheet1 Member=Component PortA1 JP8
+Added Member To Class: ClassName=Sheet1 Member=Component PortB1 JP8
+Added Member To Class: ClassName=Sheet1 Member=Component PortC1 JP8
+Added Member To Class: ClassName=Sheet1 Member=Component PortD1 JP8
+Added Member To Class: ClassName=Sheet1 Member=Component R_P1 330
+Added Member To Class: ClassName=Sheet1 Member=Component R_R1 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R_SCK1 330
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 SW
+Added Member To Class: ClassName=Sheet1 Member=Component VIN1 JP2
+Added Member To Class: ClassName=Sheet1 Member=Component XT1 16Mhz
+Added Room: Name=Sheet1

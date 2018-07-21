@@ -1,0 +1,65 @@
+Added Component: Designator=C1(Cap Non-Pol 3mm)
+Added Component: Designator=D1(DIO-1A-SMALL)
+Added Component: Designator=J1(KF2-3.5)
+Added Component: Designator=J2(KF2-3.5)
+Added Component: Designator=J3(KF2-3.5)
+Added Component: Designator=LDR1(CDS)
+Added Component: Designator=LED1(LED-3MM-RED)
+Added Component: Designator=R1(RES-1/4W)
+Added Component: Designator=R2(RES-1/4W)
+Added Component: Designator=R3(RES-1/4W)
+Added Component: Designator=R4(RES-1/4W)
+Added Component: Designator=RL1(RELAY 5)
+Added Component: Designator=U1(DIP8)
+Added Component: Designator=U2(TO-220N)
+Added Component: Designator=VR1(VR-S2)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=LDR1-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=VR1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Pin To Net: NetName=NetD1_1 Pin=RL1-4
+Added Pin To Net: NetName=NetD1_1 Pin=U2-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=RL1-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=J2-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=RL1-3
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetLDR1_2 Pin=LDR1-2
+Added Pin To Net: NetName=NetLDR1_2 Pin=R3-2
+Added Pin To Net: NetName=NetLDR1_2 Pin=U1-3
+Added Net: Name=NetLDR1_2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R4-1
+Added Pin To Net: NetName=NetR2_2 Pin=U1-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U2-1
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=VR1-2
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=D1-2
+Added Pin To Net: NetName=VCC Pin=J3-2
+Added Pin To Net: NetName=VCC Pin=LED1-1
+Added Pin To Net: NetName=VCC Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=RL1-5
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Pin To Net: NetName=VCC Pin=VR1-1
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

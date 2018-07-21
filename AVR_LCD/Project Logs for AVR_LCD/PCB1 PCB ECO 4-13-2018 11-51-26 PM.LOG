@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetC1_11 Pin=C2-2
+Added Component: Designator=C3(JP8-D1C)
+Added Component: Designator=C4(JP4-D2T)
+Added Pin To Net: NetName=NetC1_2 Pin=C3-8
+Added Pin To Net: NetName=NetC1_2 Pin=C4-8
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C4-4
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C4-5
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC3_3 Pin=C3-3
+Added Pin To Net: NetName=NetC3_3 Pin=C4-3
+Added Net: Name=NetC3_3
+Added Pin To Net: NetName=NetC3_4 Pin=C3-4
+Added Pin To Net: NetName=NetC3_4 Pin=C4-6
+Added Net: Name=NetC3_4
+Added Pin To Net: NetName=NetC3_5 Pin=C3-5
+Added Pin To Net: NetName=NetC3_5 Pin=C4-2
+Added Net: Name=NetC3_5
+Added Pin To Net: NetName=NetC3_6 Pin=C3-6
+Added Pin To Net: NetName=NetC3_6 Pin=C4-7
+Added Net: Name=NetC3_6
+Added Pin To Net: NetName=NetC3_7 Pin=C3-7
+Added Pin To Net: NetName=NetC3_7 Pin=C4-1
+Added Net: Name=NetC3_7
+Added Member To Class: ClassName=Sheet1 Member=Component C3 JP8
+Added Member To Class: ClassName=Sheet1 Member=Component C4 JP4x2
+Added Room: Name=Sheet1

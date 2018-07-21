@@ -1,0 +1,45 @@
+Added Component: Designator=IC?(DIP8)
+Added Component: Designator=J?(Domino 2M)
+Added Component: Designator=LED?(LED5MM)
+Added Component: Designator=LS?(Buzzer)
+Added Component: Designator=Q?(TO92-ECB)
+Added Component: Designator=R?(R1/4W)
+Added Component: Designator=RL?(RELAY 5)
+Added Component: Designator=U?(TO92-123)
+Added Component: Designator=VR?(VR-S2)
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-1
+Added Pin To Net: NetName=NetIC?_2 Pin=IC?-2
+Added Pin To Net: NetName=NetIC?_3 Pin=IC?-3
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=VCC Pin=IC?-8
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=VCC Pin=J?-2
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=VCC Pin=LED?-2
+Added Pin To Net: NetName=NetLS?_1 Pin=LS?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=LS?-2
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=VCC Pin=Q?-3
+Added Pin To Net: NetName=NetIC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Pin To Net: NetName=NetLS?_1 Pin=RL?-1
+Added Pin To Net: NetName=GND Pin=RL?-3
+Added Pin To Net: NetName=GND Pin=RL?-4
+Added Pin To Net: NetName=NetQ?_2 Pin=RL?-5
+Added Pin To Net: NetName=VCC Pin=U?-1
+Added Pin To Net: NetName=NetIC?_3 Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=VCC Pin=VR?-1
+Added Pin To Net: NetName=NetIC?_2 Pin=VR?-2
+Added Pin To Net: NetName=GND Pin=VR?-3
+Added Member To Class: ClassName=Sheet1 Member=Component IC? LM358
+Added Member To Class: ClassName=Sheet1 Member=Component J? CON.Domino2
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED5
+Added Member To Class: ClassName=Sheet1 Member=Component LS? Buzzer
+Added Member To Class: ClassName=Sheet1 Member=Component Q? C1815
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet1 Member=Component RL? Relay 10A/5V
+Added Member To Class: ClassName=Sheet1 Member=Component U? LM35
+Added Member To Class: ClassName=Sheet1 Member=Component VR? 10K
+Added Room: Name=Sheet1

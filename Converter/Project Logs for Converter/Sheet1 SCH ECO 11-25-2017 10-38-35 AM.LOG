@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C5 Old Footprint=CA-ALU-16H New Footprint=RADIAL H(2200u_50V)
+Change Component Footprint: Designator=C8 Old Footprint=CA-ALU-16H New Footprint=RADIAL H(2200u_50V)
+Change Component Comment: Designator=C5 Old Comment=CN-ALU-DIP New Comment=2200uF
+Change Component Comment: Designator=C8 Old Comment=CN-ALU-DIP New Comment=2200uF

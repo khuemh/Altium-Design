@@ -1,0 +1,45 @@
+Added Component: Designator=D1(LED-0 5mm BLUE)
+Added Component: Designator=D2(LED-0 5mm BLUE)
+Added Component: Designator=J1(Domino 2M)
+Added Component: Designator=R1(Res 10mm (1/2W))
+Added Component: Designator=R2(Res 10mm (1/2W))
+Added Component: Designator=SW1(SW4)
+Added Component: Designator=SW2(SW4)
+Added Component: Designator=U1(DIP-14)
+Added Component: Designator=U2(DIP-14)
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=U1-3
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-2
+Added Pin To Net: NetName=NetD1_2 Pin=J1-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=U2-3
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R2-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=SW1-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=SW2-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetSW1_2 Pin=SW1-2
+Added Pin To Net: NetName=NetSW1_2 Pin=U1-1
+Added Pin To Net: NetName=NetSW1_2 Pin=U2-1
+Added Net: Name=NetSW1_2
+Added Pin To Net: NetName=NetSW2_2 Pin=SW2-2
+Added Pin To Net: NetName=NetSW2_2 Pin=U1-2
+Added Pin To Net: NetName=NetSW2_2 Pin=U2-2
+Added Net: Name=NetSW2_2
+Added Pin To Net: NetName=VCC Pin=U1-14
+Added Pin To Net: NetName=VCC Pin=U2-14
+Added Net: Name=VCC
+Added Class: Name=BanPhan
+Added Room: Name=BanPhan
